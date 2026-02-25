@@ -1,3 +1,4 @@
 <Solution>
-  <Project Path="必备知识_多脚本文件/必备知识_多脚本文件.csproj" />
+  <Project Path="E:/C#课程/C#核心/CSharp核心实践教学/必备知识_多脚本文件/必备知识_多脚本文件.csproj" />
+  <Project Path="E:/C#课程/C#核心/CSharp核心实践教学/贪吃蛇/贪吃蛇.csproj" Id="35ef06f4-4d32-4557-851c-0368a6f490bc" />
 </Solution>
